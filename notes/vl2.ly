@@ -88,7 +88,7 @@ BonumViolinoII = {
     g,4 d'''~\p d8 d,16 d d4
     d, r8 fis g16 d h' a g8 g,
     g4 g''8 g,16 g g8 e a' a,16 a
-    a4~ a8 a,16 a \kneeBeam a8 fis'' h h,16 h %95
+    a4~ a8 a,16 a a8 fis'' h h,16 h %95
     h4~ h8 h,16 h h8 g' h' g16 g
     d'4~ d8 d,16 d d,8 fis'16\f fis g g a a
     h8 d,~\p d d,16 d d8 h' e, cis'
