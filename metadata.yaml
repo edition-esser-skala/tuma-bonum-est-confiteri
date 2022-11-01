@@ -1,0 +1,17 @@
+composer:
+  last: Tůma
+  first: František Ignác Antonín
+title: Bonum est confiteri
+genre: motet
+scoring: A (solo), 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15705
+    date: 1746
+    url: https://data.onb.ac.at/rec/AC14297600
+    license: public domain
+    principal: true
+    notes: parts for A solo, vl 1 (2×), vl 2 (2×), vla, vlc, vlne, org, and maestro di cappella
+imslp:
